@@ -1,7 +1,7 @@
-Template: a full living systematic-review of interventions
+Cancer-associated thromboembolism treatment
 =================================
 **[Click here](
-http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
+http://openmetaanalysis.github.io/Cancer-associated-thromboembolism-treatment
 ) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
